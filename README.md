@@ -1,0 +1,3 @@
+- Hi, I’m @Spoof
+- I’m interested in Python C# C++ Java and HTML5
+-I’m learning PHP
